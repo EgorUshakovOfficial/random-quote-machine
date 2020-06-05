@@ -1,0 +1,30 @@
+﻿body {
+    background: rgba(252, 3, 165, 0.7);
+}
+.container{
+    width: 40%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#quote-box {
+    background-color: white;
+}
+#facebook{
+    margin: 0 1vw 1vh 1vw;
+}
+
+#text {
+    color: rgba(252, 3, 165, 0.7);
+}
+
+#author {
+    color: rgba(252, 3, 165, 0.7);
+}
+
+#new-quote {
+    margin: 0 2vw 2vh 2vw;
+}
+
